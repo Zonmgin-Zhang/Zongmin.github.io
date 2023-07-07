@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /about.pdf
 ---
 
 I'm Zongmin Zhang, an MSc student in Computer Science at [City University of Hong Kong](https://www.cityu.edu.hk/), and my academic journey began with a BSc in Computer Science with a focus on Database Systems from [The University of New South Wales](https://www.unsw.edu.au/homepage/). My research interest is Natural Language Processing (NLP) and its related fields.
