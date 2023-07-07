@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: ../files/CV-Zongmin.pdf
+    url: /files/CV-Zongmin.pdf
     
   - #title: "Publications"
     #url: /publications/
