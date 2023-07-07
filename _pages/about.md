@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,4 +14,5 @@ Currently, I'm serving as a Vision Algorithm Intern at the Hong Kong Institute o
 
 In academia, I've worked under [Prof. Antoni B. Chan](https://www.cs.cityu.edu.hk/~abchan/) at City University as a Research Assistant on a Plagiarism Detection System project, improving accuracy and contributing to both the system's backend and frontend. I'm also participating in a Financial Machine Translation project under [Dr. Linqi Song](https://www.cityu.edu.hk/stfprofile/songlinqi.htm), refining models' performance and developing decoding strategies for machine translation applications in finance.
 
-You can find my CV here: [Zongmin's Curriculum Vitae](../assets/CV-Zongmin.pdf).
+You can find my CV here: [Zongmin's Curriculum Vitae](../assets/CV-Zongmin.pdf). 
+[Email](844315054@qq.com)/
